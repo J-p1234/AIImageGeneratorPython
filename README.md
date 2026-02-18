@@ -31,12 +31,8 @@ PIL (Pillow)
 
 Requests
 
-📦 Installation
-1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-image-generator.git
-cd ai-image-generator
 
-2️⃣ Install dependencies
+Install dependencies
 pip install openai pillow requests ttkthemes
 
 🔑 Setup API Key
