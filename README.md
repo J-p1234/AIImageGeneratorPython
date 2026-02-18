@@ -66,6 +66,21 @@ Browse results using:
 
 Click Preview to open the first generated image
 
+📁 IMPORTANT – Create Output Folder
+
+Before running the project, you must create a folder named outputs inside the project directory.
+
+Example:
+
+ai-image-generator/
+ ├── main.py
+ ├── outputs/
+
+
+If the folder does not exist, the program will fail when trying to save generated images.
+
+You can create it manually or via terminal:
+
 🧠 AI Models Used
 
 GPT model for idea generation
