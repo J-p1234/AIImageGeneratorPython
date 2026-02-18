@@ -100,3 +100,6 @@ Export history
 
 Created by JP
 AI Enthusiast & Python Developer
+
+<img width="594" height="804" alt="Στιγμιότυπο οθόνης (22)" src="https://github.com/user-attachments/assets/716a33f5-a86f-4966-8b46-69b4a7f69cc5" />
+
